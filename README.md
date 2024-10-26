@@ -19,4 +19,4 @@ I was not required to style the website, only required to create the structure o
 - Structure in a way that you can easily add styles later.
 - Add SEO meta tags to the website.
 
-![Websiter-Template](Basic-HTML-Website/Images/Basic.png)
+![Websiter-Template](/Basic-HTML-Website/images/basic.png)
